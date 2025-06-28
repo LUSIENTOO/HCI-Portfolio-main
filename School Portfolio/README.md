@@ -4,7 +4,7 @@
 </h1>
 
 <<p align="center">
-  Welcome to the SwapSphere Document Portfolio repository! This repository contains comprehensive documentation and resources for the **SwapSphere** app design prototype.
+ Welcome to the SwapSphere Document Portfolio repository! This repository contains comprehensive documentation and resources for the **SwapSphere** app design prototype.
 </p>
 
 <h2 align="center">Contents</h2>
