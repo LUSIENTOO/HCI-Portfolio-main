@@ -150,7 +150,7 @@ On the Forum Screen, you can explore and interact with forum posts. Currently, o
 
 ## OUR TEAM
 
-**JEDDH ANDREW**  
+**JEDDH ANDREW JAYME**  
 2nd Year - CS  
 
 
