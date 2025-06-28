@@ -25,6 +25,6 @@
 <h3 align="center">Team Gwapo</h3>
 
 <p align="center">
-- Jeddh Andrew Jayme ([GitHub](https://github.com/LUSIENTOO))<br>
-- Nokie Pabualan ([GitHub](https://github.com/Yasinans))<br>
+- Jeddh Andrew Jayme GitHub https://github.com/LUSIENTOO<br>
+- Nokie Pabualan GitHub https://github.com/Yasinans<br>
 </p>
