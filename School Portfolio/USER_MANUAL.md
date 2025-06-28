@@ -10,7 +10,7 @@ A comprehensive guide to navigating and maximizing the features of our **SwapSph
 
 <a name="br2"></a> 
 
-## SPLASH SCREEN > TITLE SCREEN
+## SPLASH SCREEN & TITLE SCREEN
 
 Upon opening the app, you will see a splash screen that transitions to the title screen, which includes login and sign-up buttons.
 
